@@ -1,0 +1,2 @@
+It is a service that we can use to manage more than one aws accounts it is also used for creating aws accounts and having a consolidated bill from multiple aws account.
+It allows you to consolidate multiple aws accounts into an organization that you create and centrally manage 

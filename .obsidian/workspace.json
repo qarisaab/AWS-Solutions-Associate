@@ -1,0 +1,377 @@
+{
+  "main": {
+    "id": "525324cb74209276",
+    "type": "split",
+    "children": [
+      {
+        "id": "8722f934ba798198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b62135aadfc4ddda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ca30c547d413a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cabb063213b3a087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb3019486d7f8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Infrastructure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fe81dfd72f6485b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9cf2a7059660459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/s3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1492028e2db671b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Boot Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc2494bce6e4b7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Core Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd545029cd0baa6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Boot Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4a45f253abb6712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/VPCs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7775c17abdb296b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Route 53.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144fb7d894227af2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Core Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe5f65ef2b2e165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/Cloud Watch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23e1dd9a3259f27c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/New Account setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bb19f98ee6817e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "289ffd8ce9e23a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Auto Scaling/EC2 Auto Scaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0dff63506eca3707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Organization/AWS Organization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5c17858510054f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Global Services/ELB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "963018e821fa57f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7c05d2a0062e886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "678ba0d4f70834c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f49939edbf6237b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fac7dfa373f168fb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c9db7a31b725299",
+    "type": "split",
+    "children": [
+      {
+        "id": "15521be10c43e8bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01371fe7578aca8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Global Services/ELB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79c665ca0ba4e136",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Global Services/ELB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b2c6edcdeedcecb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bbeb7de213599e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Global Services/ELB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d5c17858510054f4",
+  "lastOpenFiles": [
+    "Global Services/EC2.md",
+    "Attachments/Pasted image 20230411141400.png",
+    "VPC/VPC.md",
+    "AWS Organization/AWS Organization.md",
+    "VPC",
+    "Auto Scaling/EC2 Auto Scaling.md",
+    "AWS Organization",
+    "IAM/IAM Service.md",
+    "Global Services/New Account setup.md",
+    "Global Services/Infrastructure.md",
+    "Global Services/IAM.md",
+    "Global Services/EBS.md",
+    "Global Services/Core Services.md",
+    "Global Services/Cloud Watch.md",
+    "Attachments/Pasted image 20230106183328.png",
+    "Auto Scaling",
+    "Untitled.md",
+    "IAM",
+    "Global Services/ELB.md",
+    "Global Services/Route 53.md",
+    "Global Services/s3.md",
+    "Global Services/RDS.md",
+    "Global Services/VPCs.md",
+    "Linux/Boot Process.md"
+  ]
+}
